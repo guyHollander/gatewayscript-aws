@@ -16,7 +16,7 @@ Datapower's Gateway script Javascript module, contains the following methods:
         "amz-headers": {}, // amz-headers and their value if require. No need to add amz-x-date as the module generate one for each request.
         "querystr":'', // querystring for request
         "objPath": 'test/tst.txt', // path to the require object without the leading '/' and the bucket
-        "bucketName": 'guytest', // bucket name
+        "bucketName": 'test', // bucket name
         "data": "Welcome to Amazon S3." // data
    }
   
